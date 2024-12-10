@@ -1,0 +1,36 @@
+{
+  "following_not_followers": {"handles": [""]},
+  "core_follower_stats": {
+    "requested": 0,
+    "followers": 0,
+    "following_not_followers": 0,
+    "following": 0
+  },
+  "oldest_followers": {
+    "handles": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "dates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

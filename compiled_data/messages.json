@@ -1,0 +1,94 @@
+{
+  "top_sent_users": {
+    "names": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "messages": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "top_received_users": {
+    "names": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "messages": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "core_message_stats": {
+    "received_dm": 0,
+    "total_gcs": 0,
+    "total_dms": 0,
+    "sent_gc": 0,
+    "sent_dm": 0,
+    "received_gc": 0
+  },
+  "top_sent_gc": {
+    "names": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "messages": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "top_received_gc": {
+    "names": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "messages": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
